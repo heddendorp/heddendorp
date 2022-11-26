@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The TUMi app](https://github.com/heddendorp/tumi)
 
-- 🌱 I’m currently learning about **Deep learning**
+- 🌱 I’m also in the process of writing my [master's thesis](https://github.com/heddendorp/msc-thesis) about **Automatically Detecting Flaky End-to-End Tests in Multi-Language Systems Using Code Coverage**
 
 - 💬 Ask me about **angular and all things frontend**
 
